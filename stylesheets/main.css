@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Bundy;
+  src: url('../fonts/Bundy-Regular.otf');
+}
+
+#truth {
+  color: #182B04;
+  text-shadow: -1px -1px 2px #B5C529, -1px -1px 3px #252900, 1px 1px 2px #5CBE73;
+  opacity: 0.95;
+
+  font-size: 200px;
+  font-family: Bundy, 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+
+  text-align: center;
+}
